@@ -1,0 +1,13 @@
+{
+  "name": "project-coach",
+  "description": "project coach app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnuffer/project-coach.git"
+  }
+}
